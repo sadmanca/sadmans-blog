@@ -14,7 +14,7 @@
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the blog starter.
+    Use the Gatsby CLI to create a new site, specifying my blog's repository.
 
     ```shell
     # create a new Gatsby site using the repository

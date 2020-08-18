@@ -8,6 +8,12 @@ module.exports = {
     description: `My thoughts and opinions on various things.`,
     siteUrl: `https://sadmanh.netlify.app/`,
   },
+  flags: {
+      PRESERVE_WEBPACK_CACHE: true,
+      FAST_DEV: true,
+      PRESERVE_FILE_DOWNLOAD_CACHE: true,
+      FAST_REFRESH: true,
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

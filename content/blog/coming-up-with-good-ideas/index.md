@@ -1,6 +1,6 @@
 ---
 title: Coming Up With (Good) Ideas
-date: "2021-09-25"
+date: "2020-09-25"
 description: "Sometimes it can be hard to come up with ideas that you think are
 good. But the point of coming up with ideas is about more than just coming up
 with good ones."

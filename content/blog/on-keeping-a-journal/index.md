@@ -1,6 +1,6 @@
 ---
 title: On Keeping A Journal
-date: "2021-08-17"
+date: "2020-08-17"
 description: "I journal everyday. And it's the one of the best investments I’ve ever made in my personal development and career."
 ---
 

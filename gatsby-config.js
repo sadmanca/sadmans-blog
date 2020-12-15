@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives in Toronto and likes exploring the intersection of software and the physical world.`,
     },
     description: `My thoughts and opinions on various things.`,
-    siteUrl: `https://sadmanh.netlify.app/`,
+    siteUrl: `https://sadman.tech/`,
   },
   flags: {
       PRESERVE_WEBPACK_CACHE: true,
@@ -45,6 +45,14 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          // {
+          //   resolve: `gatsby-remark-autolink-headers`,
+          //   options: {
+          //     offsetY: `100`,
+          //     removeAccents: true,
+          //     elements: [`h1`, `h2`],
+          //   },
+          // },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
@@ -56,7 +64,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
       },
     },
     `gatsby-plugin-feed`,
@@ -67,14 +75,27 @@ module.exports = {
         short_name: `Sadman`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#f0e65b`,
         display: `minimal-ui`,
-        icon: `content/assets/logo.png`,
+        icon: `content/assets/sadman-logo.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        color: `#f0e65b`,
+        showSpinner: false,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.sadman.tech',
+        sitemap: 'https://www.sadman.tech/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    }
   ],
 }

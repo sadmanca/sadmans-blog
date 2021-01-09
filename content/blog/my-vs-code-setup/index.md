@@ -39,7 +39,7 @@ Allows matching brackets to be identified with colours. Incredibly useful when w
 ## Trailing Spaces
 Highlights trailing spaces. While trailing spaces can be deleted with a single command (or automatically, if you’re so inclined) by editing VS Code’s settings, the highlighting added by this extension just makes editing files less of a hassle, especially when coding in Python (where indentation indicates blocks of code and isn't simply there for readability).
 
-<img src="./4_trailing_spaces" alt="Trailing Spaces" width="630"/>
+<img src="./4_trailing_spaces.gif" alt="Trailing Spaces" width="630"/>
 
 &NewLine;
 

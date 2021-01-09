@@ -1,14 +1,6 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://sadman.tech">
-    <img alt="Sadman's Blog" src="https://drive.google.com/uc?id=1pTc6Nr6UO6sEr9Z-jR_MKObbm-30MUaF" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Sadman's Blog
-</h1>
+# Sadman's Blog
 
-### Built with [Gatsby](https://www.gatsbyjs.com/). Deployed by [Netlify](https://www.netlify.com/).
+My personal blog built with [Gatsby](https://www.gatsbyjs.com/).
 
 ## 🚀 Quick start
 

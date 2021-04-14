@@ -9,10 +9,9 @@ module.exports = {
     siteUrl: `https://sadman.tech/`,
   },
   flags: {
-      PRESERVE_WEBPACK_CACHE: true,
       FAST_DEV: true,
-      PRESERVE_FILE_DOWNLOAD_CACHE: true,
       FAST_REFRESH: true,
+      LAZY_IMAGES: true,
   },
   plugins: [
     {

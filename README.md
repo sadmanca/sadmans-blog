@@ -1,5 +1,7 @@
 # Sadman's Blog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d2242e2a-7073-499f-bf59-41f636e08648/deploy-status)](https://netlify.com)
+
 My personal blog built with [Gatsby](https://www.gatsbyjs.com/).
 
 ## 🚀 Quick start

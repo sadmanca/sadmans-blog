@@ -8,7 +8,7 @@
     "url": "https://github.com/hossainsadman/sadmans-blog/issues"
   },
   "dependencies": {
-    "@fontsource/inter": "^4.2.0",
+    "@fontsource/inter": "^4.2.2",
     "gatsby": "^2.32.3",
     "gatsby-image": "^3.3.0",
     "gatsby-plugin-feed": "^2.13.1",

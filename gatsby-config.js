@@ -6,7 +6,9 @@ module.exports = {
       summary: `who lives in Toronto and likes exploring the intersection of software and the physical world.`,
     },
     description: `My thoughts and opinions on various things.`,
-    siteUrl: `https://sadman.tech/`,
+    url: "https://sadman.tech",
+    siteUrl: "https://sadman.tech",
+    image: "/content/assets/sadman-logo.png"
   },
   flags: {
       FAST_DEV: true,

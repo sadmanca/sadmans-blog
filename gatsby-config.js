@@ -13,7 +13,7 @@ module.exports = {
   flags: {
       FAST_DEV: true,
       FAST_REFRESH: true,
-      LAZY_IMAGES: true,
+      PARALLEL_SOURCING: true,
   },
   plugins: [
     {

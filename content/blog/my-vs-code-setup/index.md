@@ -6,7 +6,10 @@ description: "I’ve used a lot of IDEs and code editors since I first wrote a �
 
 I’ve used a lot of IDEs and code editors since I first wrote a “Hello World” program in grade school, from environments as simple as Python’s IDLE to those as jam-packed as IntelliJ IDEA. For now, I’ve settled on using Microsoft’s Visual Studio Code (VS Code) for pretty much all my programming needs. It’s free, open source, and insanely configurable (it can be as lightweight or as complex as you want it to be).
 
-<img src="./0_vs_code_intro.gif" alt="Visual Studio Code" width="630"/>
+<video width="630" autoplay muted>
+  <source src="./0_vs_code_intro.webm" type="video/webm">
+  Visual Studio Code
+</video>
 
 &NewLine;
 
@@ -18,42 +21,60 @@ Some of my favourites:
 ## GitLens
 Supercharges the Git capabilities built into Visual Studio Code. The at-a-glance at a glance Git blame annotations and comparison commands are an awesome quality of life improvement, especially when dealing with multiple branches and team repositories.
 
-<img src="./1_gitlens.gif" alt="GitLens" width="630"/>
+<video width="630" autoplay muted>
+  <source src="./1_gitlens.webm" type="video/webm">
+  GitLens
+</video>
 
 &NewLine;
 
 ## Visual Studio IntelliCode
 Visual Studio Code IntelliSense is provided for JavaScript, TypeScript, JSON, HTML, CSS, SCSS, and Less out of the box. IntelliCode extends that functionality to Python and Java. Even better, the insights are based on the context of your code combined with machine learning, reducing the friction between getting a bunch of hints and choosing the one you were looking for.
 
-<img src="./2_intellicode.gif" alt="Visual Studio IntelliCode" width="630"/>
+<video width="630" autoplay muted>
+  <source src="./2_intellicode.webm" type="video/webm">
+  Visual Studio IntelliCode
+</video>
 
 &NewLine;
 
 ## Bracket Pair Colorizer
 Allows matching brackets to be identified with colours. Incredibly useful when working with obtuse code in Java or C++.
 
-<img src="./3_colorizer.gif" alt="Bracket Pair Colorizer" width="630"/>
+<video width="630" autoplay muted>
+  <source src="./3_colorizer.webm" type="video/webm">
+  Bracket Pair Colorizer
+</video>
 
 &NewLine;
 
 ## Trailing Spaces
 Highlights trailing spaces. While trailing spaces can be deleted with a single command (or automatically, if you’re so inclined) by editing VS Code’s settings, the highlighting added by this extension just makes editing files less of a hassle, especially when coding in Python (where indentation indicates blocks of code and isn't simply there for readability).
 
-<img src="./4_trailing_spaces.gif" alt="Trailing Spaces" width="630"/>
+<video width="630" autoplay muted>
+  <source src="./4_trailing_spaces.webm" type="video/webm">
+  Trailing Spaces
+</video>
 
 &NewLine;
 
 ## Batch Rename
 Has saved me some serious time when working on old repositories with poorly named files, or even when the file naming structures of a repository change. With less than 1000 downloads, it's definitely a niche tool, but it comes in very handy when you need it (works for my regular old files as well).
 
-<img src="./5_batch_rename.gif" alt="Batch Rename" width="630"/>
+<video width="630" autoplay muted>
+  <source src="./5_batch_rename.webm" type="video/webm">
+  Batch Rename
+</video>
 
 &NewLine;
 
 ## Prettier
 Prettier is amazing at improving the readability of my code without me having to dive into each individual function and tweak the spacing. Using it means I don't need to spend effort fixing formatting or looking up rules in a style guide (and I can easily make repository-wide changes if I need some custom formatting of my own).
 
-<img src="./6_prettier.gif" alt="Prettier" width="630"/>
+<video width="630" autoplay muted>
+  <source src="./6_prettier.webm" type="video/webm">
+  Prettier
+</video>
 
 &NewLine;
 

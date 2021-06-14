@@ -48,10 +48,6 @@ const SEO = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
         {
-          property: `og:image`,
-          content: `content/assets/sadman-logo.png`,
-        },
-        {
           property: `og:type`,
           content: `website`,
         },

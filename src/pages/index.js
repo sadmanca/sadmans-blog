@@ -61,7 +61,7 @@ const BlogIndex = ({ data, location }) => {
         })}
       </ol>
       <Helmet>
-        <meta property="og:image" content="content/assets/profile-pic.png" />
+        <meta property="og:image" content="https://drive.google.com/uc?export=view&id=1TzCqF2v4a_fKCiXpTKEyqbnqEBD1DsoR" />
       </Helmet>
     </Layout>
   )

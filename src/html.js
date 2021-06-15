@@ -14,7 +14,7 @@ export default function HTML(props) {
         <meta
           name="image"
           property="og:image"
-          content="content/assets/profile-pic.png"
+          content="https://drive.google.com/uc?export=view&id=1TzCqF2v4a_fKCiXpTKEyqbnqEBD1DsoR"
         />
         {props.headComponents}
       </head>

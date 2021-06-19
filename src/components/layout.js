@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
         <html lang="en" />
         <meta
           property="og:image"
-          content={"content/assets/sadman-logo.png"}
+          content={"static/sadman-logo.png"}
         />
       </Helmet>
       <div className="global-wrapper" data-is-root-path={isRootPath}>

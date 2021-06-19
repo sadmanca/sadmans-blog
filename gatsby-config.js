@@ -8,7 +8,7 @@ module.exports = {
     description: `My thoughts and opinions on various things.`,
     url: "https://sadman.tech",
     siteUrl: "https://sadman.tech",
-    image: "/content/assets/sadman-logo.png"
+    image: "content/assets/og-image.png"
   },
   flags: {
       FAST_DEV: true,

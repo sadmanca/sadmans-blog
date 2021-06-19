@@ -22,21 +22,12 @@ const Layout = ({ location, title, children }) => {
   }
 
   return (
-    <div>
-      <Helmet>
-        <html lang="en" />
-        <meta
-          property="og:image"
-          content={"static/sadman-logo.png"}
-        />
-      </Helmet>
-      <div className="global-wrapper" data-is-root-path={isRootPath}>
-        <header className="global-header">{header}</header>
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built by Sadman Hossain
-        </footer>
-      </div>
+    <div className="global-wrapper" data-is-root-path={isRootPath}>
+      <header className="global-header">{header}</header>
+      <main>{children}</main>
+      <footer>
+        © {new Date().getFullYear()}, Built by Sadman Hossain
+      </footer>
     </div>
   )
 }

@@ -34,7 +34,7 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "2.3.0"
+    "prettier": "2.3.2"
   },
   "homepage": "https://github.com/hossainsadman/sadmans-blog#readme",
   "keywords": [

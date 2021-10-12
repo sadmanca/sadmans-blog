@@ -12,7 +12,7 @@ My personal blog built with [Gatsby](https://www.gatsbyjs.com/).
 
     ```shell
     # create a new Gatsby site using the repository
-    gatsby new sadmans-blog https://github.com/hossainsadman/sadmans-blog
+    gatsby new sadmans-blog https://github.com/sadmanca/sadmans-blog
     ```
 
 1.  **Start developing.**
@@ -84,8 +84,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hossainsadman/sadmans-blog)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sadmanca/sadmans-blog)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/hossainsadman/sadmans-blog)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/sadmanca/sadmans-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->

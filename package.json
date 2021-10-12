@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Sadman Hossain <m.sadman.h@gmail.com>",
   "bugs": {
-    "url": "https://github.com/hossainsadman/sadmans-blog/issues"
+    "url": "https://github.com/sadmanca/sadmans-blog/issues"
   },
   "dependencies": {
     "@fontsource/inter": "^4.4.2",
@@ -36,7 +36,7 @@
   "devDependencies": {
     "prettier": "2.3.0"
   },
-  "homepage": "https://github.com/hossainsadman/sadmans-blog#readme",
+  "homepage": "https://github.com/sadmanca/sadmans-blog#readme",
   "keywords": [
     "gatsby"
   ],
@@ -44,7 +44,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hossainsadman/sadmans-blog.git"
+    "url": "git+https://github.com/sadmanca/sadmans-blog.git"
   },
   "scripts": {
     "build": "gatsby build",

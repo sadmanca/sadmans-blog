@@ -6,8 +6,8 @@ module.exports = {
       summary: `who lives in Toronto and likes exploring the intersection of software and the physical world.`,
     },
     description: `My thoughts and opinions on various things.`,
-    url: "https://sadman.tech",
-    siteUrl: "https://sadman.tech",
+    url: "https://sadman.ca",
+    siteUrl: "https://sadman.ca",
     image: "content/assets/og-image.png"
   },
   flags: {
@@ -94,8 +94,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://www.sadman.tech',
-        sitemap: 'https://www.sadman.tech/sitemap.xml',
+        host: 'https://www.sadman.ca',
+        sitemap: 'https://www.sadman.ca/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     }
